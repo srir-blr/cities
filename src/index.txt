@@ -8,3 +8,6 @@ Trivandram
 Pune
 Indore
 Jaipur
+Coimbatore
+Hosur
+Ooty
