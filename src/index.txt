@@ -8,3 +8,6 @@ Trivandram
 Pune
 Indore
 Jaipur
+Tirupati
+Chitoor
+Vizag
