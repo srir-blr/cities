@@ -5,3 +5,6 @@ Mumbai
 Kolkata
 Delhi
 Trivandram
+Pune
+Indore
+Jaipur
