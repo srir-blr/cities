@@ -14,3 +14,6 @@ Ooty
 Tirupati
 Chitoor
 Vizag
+Kochi
+Waynad
+Kozhikode
